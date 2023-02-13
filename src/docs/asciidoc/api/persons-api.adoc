@@ -1,0 +1,25 @@
+= Persons API
+
+== Request Sample
+
+=== Using cURL
+
+include::{snippets}/persons/curl-request.adoc[]
+
+=== Raw HTTP
+
+include::{snippets}/persons/http-request.adoc[]
+
+== Response Sample
+
+include::{snippets}/persons/http-response.adoc[]
+
+== Request Details
+
+=== Query Parameters
+
+include::{snippets}/persons/query-parameters.adoc[]
+
+== Response Details
+
+include::{snippets}/persons/response-fields.adoc[]
