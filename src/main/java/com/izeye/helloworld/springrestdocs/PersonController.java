@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+/**
+ * {@link RestController} for {@link Person}.
+ *
+ * @author Johnny Lim
+ */
 @RestController
 @RequestMapping(path = "/persons")
 public class PersonController {
